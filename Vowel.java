@@ -1,5 +1,5 @@
 import java.io.*;
-public class Vowel {
+public class Vowel{
 	public static void main(String [] args) throws IOException{
 		BufferedReader a=new BufferedReader(new InputStreamReader(System.in));
 		char b=a.readLine().charAt(0);
